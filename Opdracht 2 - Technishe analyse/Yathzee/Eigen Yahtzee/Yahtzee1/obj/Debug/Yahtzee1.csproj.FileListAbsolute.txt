@@ -1,0 +1,31 @@
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\bin\Debug\Yahtzee1.exe.config
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\bin\Debug\Yahtzee1.exe
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\bin\Debug\Yahtzee1.pdb
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.csprojResolveAssemblyReference.cache
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.Form1.resources
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.Properties.Resources.resources
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.UserControl1.resources
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.csproj.GenerateResource.Cache
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.exe
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.pdb
+c:\users\sacha\documents\visual studio 2013\Projects\Yahtzee1\Yahtzee1\obj\Debug\Yahtzee1.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\bin\Debug\Yahtzee1.exe.config
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.exe
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\bin\Debug\Yahtzee1.exe
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\bin\Debug\Yahtzee1.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.csprojResolveAssemblyReference.cache
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.Form1.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.Properties.Resources.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee1\obj\Debug\Yahtzee1.csproj.GenerateResource.Cache
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\bin\Debug\Yahtzee1.exe.config
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.exe
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.pdb
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.csprojResolveAssemblyReference.cache
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.Properties.Resources.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.csproj.GenerateResource.Cache
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\bin\Debug\Yahtzee1.exe
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\bin\Debug\Yahtzee1.pdb
+C:\Users\Arne Wesenbeek\Documents\school kdg\Jaar 2\Software Engineering\Opdracht 2 - Technishe analyse\Yathzee\Eigen Yahtzee\Yahtzee1\obj\Debug\Yahtzee1.Spel.resources

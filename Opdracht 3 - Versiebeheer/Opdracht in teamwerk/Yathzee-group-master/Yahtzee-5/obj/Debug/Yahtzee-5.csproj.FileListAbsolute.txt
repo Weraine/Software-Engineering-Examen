@@ -1,0 +1,108 @@
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+c:\users\nosenzop\documents\visual studio 2015\Projects\Yahtzee-5\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\Arne Wesenbeek\Documents\school kdg\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.ItemsView.resources
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\Arne Wesenbeek\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.ItemsView.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee_5.SpelersView.resources
+C:\Users\pieter\Documents\GitHub\Yathzee-group\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.ItemsView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.SpelersView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\Sacha\Desktop\Yathzee-group-master-x\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.ItemsView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.SpelersView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\Arne Wesenbeek\Desktop\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\bin\Debug\Yahtzee-5.exe
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\bin\Debug\Yahtzee-5.pdb
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.csprojResolveAssemblyReference.cache
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.GameView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.ItemsView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.Properties.Resources.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreboardView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.ScoreView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.SpelersView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.TeerlingView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee_5.YahtzeeView.resources
+C:\Users\pieter\Desktop\Yathzee-group-master (1)\Yathzee-group-master\Yahtzee-5\obj\Debug\Yahtzee-5.csproj.GenerateResource.Cache
